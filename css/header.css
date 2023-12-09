@@ -1,0 +1,49 @@
+header {
+    width: 100%;
+    height: 6.15vw;
+    position: absolute;
+    background: linear-gradient(to right, #000000 38%, #181823 20%, #181823 80%, #181823 80%  ) ;
+}
+.navbar {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.navbar-nav {
+    position: absolute;
+    right: 4.8vw;
+    height: 100%;
+    display: flex;
+    z-index: 2;
+}
+.nav-item {
+    display: flex;
+    align-items: center;
+    padding: 1vw 1.25vw ;
+}
+.nav-link {
+    color: #FFF;
+    font-size: 1.12vw;
+    font-weight: 300;
+    font-family: 'Sen', sans-serif;
+}
+.navbar-brand {
+    margin-left: 4.3vw;
+    margin-top: -0.2vw;
+} 
+.nav-img {
+    height: 1.7vw;
+}
+.navbar-toggler {
+    border: none;
+    position:sticky;
+}
+.navbar-toggler-icon {
+    color: #FFF;
+}
+
+.nav-link:hover {
+    color: #FFF;
+ 
+}
+ 

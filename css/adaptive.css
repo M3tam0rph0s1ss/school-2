@@ -1,0 +1,475 @@
+
+@media screen and (max-width: 769px) {
+      body {
+        overflow-x: hidden;
+
+      }
+    header {
+        background: #000;
+        height: 11.53vw;
+    }
+    .nav-link {
+        font-size: 2vw;
+    }
+    .navbar-nav {
+        right: 4.25vh;
+    }
+    .container-1 {
+        background: #000;
+        top: 20vw;
+    }
+    .nav-img {
+        height: 3vh;
+        margin-left: -1vw;
+    }
+    .nav-item {
+        padding: 1vh 2vw;
+    }
+    .container-1 {
+        top: 11.2vw;
+        height: 106vw;
+    }
+    .robin-image {
+        display: none;
+    }
+    .adaptive-image-robin {
+        display: inherit !important;
+        position: absolute;
+        top: 10vw;
+    }
+    .title-container {
+        font-size: 7vw !important;
+    }
+    .about-title {
+        font-size: 2.25vw !important;
+        width: 100%;
+        line-height: 3.5vw !important;
+        margin-top: 5vw !important;
+        font-weight: lighter !important;
+    }
+    .about-robin {
+        right: 6vw !important;
+        top: 23vw !important
+    }
+    .container-2 {
+        top: 117vw;
+        height: 99vw;
+        .h3-item {
+            font-size: 1.9vw;
+            top: 10.6vw;
+        }
+        .addition-title {
+            font-size: 7vw ;
+            width: 80vw;
+            top: 14.5vw;
+        }
+        .container-items {
+            margin-top: 35vw !important;
+            margin-left: 0;
+            gap: 1.3vw !important;
+        }
+        .item-container {
+             width: 25vw !important;
+             
+            .numb-item {
+                font-size: 15vw !important;
+            }
+            .title-item {
+                margin-top: -2vw !important;
+                font-size: 2.9vw !important;
+                width: 80%;
+                line-height: 4.7vw;
+            }
+            .text-item {
+                font-size: 1.95vw !important;
+                margin-top: 3vw !important;
+            }
+        }
+    }
+    .container-3 {
+        top: 216vw;
+        height: 80vw;
+        .image-container {
+            display: none;
+        }
+        .adaptive-image-container {
+            display: inherit !important;
+            height: 100%;
+            float: right;
+            width: 50vw;
+        }
+        .text-container {
+            top: 11vw;
+        }
+        .title-philosophy {
+            font-size: 7.3vw;
+            width: min-content;
+        }
+        .text-philosophy {
+            font-size: 2.35vw;
+            margin-top: 3vw;
+        }
+        .nav-addition {
+            font-size: 2.1vw;
+            top: 65vw;
+        }
+    }
+    .container-4 {
+        top: 295.6vw;
+        height: 108.5vw;
+        .skillset-container {
+            width: 85vw;
+
+        }
+        .card-skill {
+            width: 33.9vw;
+        }
+        .title-skillset {
+            font-size: 7vw ;
+        }
+        .about-skillset {
+            font-size: 2.3vw;
+        }
+        .container-skills {
+            top: 37vw;
+            
+            gap: 4vw 12vw;
+            left: 5vw;
+        }
+        .img-skill {
+            width: 4vw;
+        }
+        .title-skill {
+            font-size: 3vw;
+            margin-top: 2.6vw;
+        }
+        .about-skill {
+            font-size: 1.9vw;
+            margin-top: 2vw;
+        }
+    }
+    .container-5 {
+        top: 404.1vw;
+        height: 36vw;
+        padding-left: 0;
+        .soc-item {
+            width: 50%;
+            height: 50%;
+        }
+        .soc-image {
+            margin-top: 8vw;
+        }
+        #soc-image-1 {
+            width: 11vw !important;
+        }
+        #soc-image-2 {
+            width: 11vw !important;
+        }
+        #soc-image-3 {
+            width: 3.7vw !important;
+        }
+        #soc-image-4 {
+            width: 2.5vw !important;
+        }
+        
+    }
+    .container-6 {
+        top: 439.9vw;
+        width: 100vw;
+        height: 506vw;
+        .title-projects {
+            font-size: 1.95vw;
+            top: 10.5vw;
+        }
+        .text-projects {
+            font-size: 7vw;
+            width: 85vw;
+            top: 14vw;
+        }
+        .container-projects {
+            justify-content: center;
+            left: 0;
+            top: 37.5vw;
+        }
+        .image-project {
+            height: 80vw;
+            object-fit: cover;
+        }
+        .card-project {
+            width: 90vw !important;
+            margin-top: 4vw !important;
+        }
+        .title-project {
+            font-size: 3.15vw !important;
+        }
+        .about-project {
+            font-size: 2.45vw !important;
+        }
+        .nav-projects {
+            display: none;
+        }
+    }
+    .container-7 {
+        top: 946vw;
+        height: 78vw;
+        .inst-container {
+            top: 10vw;
+        }
+        .inst-title {
+            font-size: 7vw;
+        }
+        .inst-text {
+            font-size: 2.3vw;
+            margin-top: 3vw;
+        }
+        .nav-addition {
+            font-size: 2.15vw;
+            margin-top: 30vw;
+        }
+    }
+    .container-8 {
+        top: 1024vw;
+        height: 120.5vw;
+        .dribbble-container {
+            width: 90vw;
+            left: 5vw;
+            top: 11vw;
+        }
+        .dribbble-title {
+            font-size: 7vw  ;
+        }
+        .dribbble-text {
+            font-size: 2.3vw;
+            margin-top: 3vw;
+            margin-bottom: 4vw;
+        }
+        .addition-dribbble {
+            font-size: 2vw;
+        }
+        .img-container {
+            margin-top: 20vw;     
+            width: 90vw; 
+            left: 5vw;   
+        } 
+        .container-top-img {
+            height: 3.5vw;
+        }
+        .circle-container {
+            width: 2vw;
+            height: 2vw;
+        }
+    }
+    .container-9 {
+        top: 1144vw;
+        height: 355vw;
+        .title-section-rw {
+            font-size: 7vw;
+            width: 42vw;
+        }
+        .text-section-rw {
+            font-size: 2.3vw;
+            margin-top: 3vw;
+            width: 43vw;
+            margin-bottom: 5vw
+        }
+        .text-rw {
+            top: 11vw;
+        }
+        .rw-addition {
+            font-size: 2vw;
+        }
+        .card-review {
+            height: 108vw;
+        }
+        .reviews-container {
+            padding-top: 11vw;
+            gap: 4vw;
+        }
+        .review-contain {
+            height: 58%;
+            padding-left: 4vw
+        }
+        .review-img {
+            height: 42%;
+            object-fit: cover;
+        }
+        .text-review {
+            font-size: 3.1vw;
+            line-height: 4.5vw;
+        }
+        .author-review {
+            font-size: 2.3vw;
+            margin-bottom: 1vw;
+            margin-top: 3.5vw;
+        }
+        .task-project {
+            font-size: 2.4vw;
+        }
+    }
+    .container-10 {
+        top: 1499vw;
+        height: 174.5vw;
+        .title-photography {
+            font-size: 7vw;
+        } 
+        .text-photography {
+            font-size: 2.2vw;
+            margin-top: 3vw;
+        }
+        .photography-container {
+            width: 85vw;
+            top: 11vw;
+        }
+        .btn-group {
+            top: 37.5vw;
+            gap: 3vw;
+        }
+        .btn-country {
+            font-size: 2.3vw;
+            padding: 1.55vw 2.25vw;
+        }
+        .image-photo {
+            width: 43.5%;
+            height: 55vw !important;
+            object-fit: cover;
+        }
+        .image-container-ph {
+            gap: 3vw;
+            margin-top: 49.5vw;
+        }
+    }
+    footer {
+        top: 1758vw;
+        height: 55vw;
+        .robin-logo {
+            width: 17.5vw;
+            margin-top: 4.5vw;
+        }
+        .socicon {
+            width: 2.5vw;
+        }
+        .social-container {
+            gap: 3vw;
+            margin-top: 4.5vw;
+            width: fit-content;
+        }
+        .addition-footer {
+            font-size: 2.1vw;
+            width: 75%;
+            margin-top: 19vw;
+        }
+        .nav-link-footer {
+            font-size: 2vw;
+        }
+        .nav-container {
+            width: 45vw;
+            right: 7.5vw;
+            top: 10.5vw;
+        }
+        .nav-footer {
+            height: 30vw;
+            gap: 0 10vw;
+        }
+        .nav-item-footer {
+            padding: 1.5vw 6vw 1.5vw 0;
+        }
+    }
+    .container-11 {
+        top: 1673vw;
+        height: 85.5vw;
+        .started-title {
+            font-size: 7.25vw;
+        }
+        .started-text {
+            font-size: 2.3vw;
+            margin-top: 3vw;
+        }
+        .started-container {
+            left: 5.3vw;
+            width: 43vw;
+            top: 10.5vw;
+        }
+        .form-control {
+            width: 43vw;
+            height: 6vw;
+            margin-bottom: 6vw;
+        }
+        .group-controls {
+            right: 5vw;
+            top: 10.5vw;
+        }
+        .form-textarea {
+            height: 12vw;
+        }
+        .form-label {
+            font-size: 2.1vw;
+        }
+        .btn-controls {
+            height: 10vw;
+            font-size: 2.4vw;
+        }
+    }
+}
+@media (max-width: 576px) {
+    header {
+        height: 20vw;
+        .navbar-toggler > img {
+            width: 5vw;
+        }
+        .nav-img {
+            height: 7vw !important;
+        }
+        .navbar-brand {
+            margin-left: 3vw !important;
+        }
+        .nav-link {
+            font-size: 3vw;
+        }
+        .nav-item {
+            background-color: #000 !important;
+            padding: 4vw 5vw;
+        }
+        .nav-item:nth-last-of-type(1) {
+            background-color: #5221e6 !important;
+        }
+        .navbar-nav {
+            height: max-content;
+            z-index: 5;
+        }
+    }
+    .container-1 {
+        height: 90vh;
+        top: 20vw;
+        .adaptive-image-robin {
+            display: none !important;
+        }
+        .robin-image {
+            display: inherit !important;
+            width: 100%;
+            height: 41%;
+            top: 0;
+            object-fit: cover;
+        }
+        .about-robin {
+            width: 90vw;
+            top: 70vw !important;
+            
+        }
+        .title-container {
+            font-size: 9vw !important;
+        }
+        .about-title {
+            font-size: 5.2vw !important;
+            line-height: 7vw !important;
+        }
+    }
+    .container-2 {
+        top: 400vw;
+    }
+    .container-3 {
+        top: 600vw;
+    }
+    
+}
+
+
